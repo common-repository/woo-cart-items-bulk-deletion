@@ -1,0 +1,51 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.wcibd-buttons-group{
+    width: 100%;
+    display: inline-block;
+    padding: 3% 2% 1% 2%;
+}
+
+.wcibd-buttons-left{
+   float: left;
+}
+
+.wcibd-buttons-right{
+   float: right;
+}
+
+#wcibd-chekall
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(1.5); /* IE */
+  -moz-transform: scale(1.5); /* FF */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+  -o-transform: scale(1.5); /* Opera */
+  padding: 5px;
+}
+
+.jc-bs3-container{
+    width: 50% !important;
+    margin-left: 25% !important;
+}
+
+.jconfirm-buttons .btn{
+    display: none !important;
+}
+
+.jconfirm-buttons .btn-red, .jconfirm-buttons .btn-default{
+    display: inline-block !important;
+}
+
+.jconfirm-buttons{
+      width: 100%;
+}
+
+.jconfirm-box{
+  width: 120%;
+  text-align: center;
+}
+
